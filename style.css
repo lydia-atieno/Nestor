@@ -234,7 +234,7 @@ html{
     color: black;
 }
 #skills .skills-item{
-    width: 80%;
+    width: 120%;
     padding: 20px;
     font-size: 1.2rem;
     border-radius: 10px;
@@ -244,6 +244,9 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#skills .skills-items{
+    margin-right: 90px;
 }
 /*skills section end*/
 
