@@ -371,3 +371,29 @@ html{
     font-weight: 500;
 }
 /*footer section end*/
+
+@media only screen and (min-width:768px) {
+    #skills .skills{
+        height: 100vh;
+    }
+    #skills .skills-items{
+        display: flex;
+        width: 60%;
+        margin-right: 0px;
+    }
+    #certification .certification{
+        height: 80vh;
+    }
+    /*contact*/
+    #contact .contact{
+        height: 100vh;
+    }
+    #contact .contact-items{
+        display: flex;
+        width: 80%;
+    }
+    #contact .contact-item{
+        width: 100%;
+    }
+    /*End contact*/
+}
