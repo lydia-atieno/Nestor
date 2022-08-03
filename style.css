@@ -248,6 +248,9 @@ html{
 #skills .skills-items{
     margin-right: 90px;
 }
+#skills .skills-item:hover{
+    box-shadow: 0px 0px 5px 0 rgb(111, 105, 123);
+}
 /*skills section end*/
 
 /*certification section start*/
